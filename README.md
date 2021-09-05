@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Chausette1
+- 👀 I’m interested about coding and the learning
+- 🌱 I’m currently learning c++ and soon mathematic and programmation in university !
+- 📫 i'm not english speaker and i'm not really good but i'm trying to upgrade this !
